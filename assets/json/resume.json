@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hung Vuong",
+    "label": "Fullstack Developer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "percywangyin@outlook.com",
+    "phone": "(079) 587-9636",
+    "url": "https://henrywangg.github.io",
+    "summary": "By experienced in developing and building website application for 2+ years, also participated outsourcing projects and worked in small and large teams with big workload that built completely quality products for business needs. Highly motivated in programming, researching frameworks to improve quality code and my skills. Adapt to join projects quickly, also suggest solutions to resolve problems in technical way. Able to work independently of remote locations or in office environment.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -151,12 +151,12 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
       "icon":""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
       "icon":""
     }
   ],
