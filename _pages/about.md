@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: This page's created for only a purpose that remind me what've I done.
+subtitle: Just simple created for myself.
 
 profile:
   align: right
@@ -16,6 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-You can refer [my resume here](/cv).
-
-Content's still updating...
+Currently, I don't have any word to describle this page. I'm Dev for 2 years until now. You can refer [my resume here](/cv).

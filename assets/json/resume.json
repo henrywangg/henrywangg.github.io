@@ -152,7 +152,7 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "SVN", "GIT"
+        "Redmine", "Backlog", "Jira"
       ]
     },
     {
@@ -160,7 +160,7 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Redmine", "Backlog", "Jira"
+        "SVN", "GIT"
       ]
     }
   ],
