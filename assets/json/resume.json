@@ -5,20 +5,20 @@
     "image": "",
     "email": "",
     "phone": "",
-    "url": "https://henrywangg.github.io",
+    "url": "",
     "summary": "By experienced in developing and building website application for 2+ years, also participated outsourcing projects and worked in small and large teams with big workload that built completely quality products for business needs. Highly motivated in programming, researching frameworks to improve quality code and my skills. Adapt to join projects quickly, also suggest solutions to resolve problems in technical way. Able to work independently of remote locations or in office environment.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -132,11 +132,35 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "C#", "Java", "Javascript", "SQL", "Objective-C"
+      ]
+    },
+    {
+      "name": "Technologies & Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        ".NET Framework / .NET Core", "Spring Framework", "NodeJS", "ReactJS", "Angular", "SQL Server, PostgreSQL, Oracle", "Bootstrap UI, PrimeFaces UI, Ant Design", "SASS/SCSS"
+      ]
+    },
+    {
+      "name": "Management Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SVN", "GIT"
+      ]
+    },
+    {
+      "name": "Version Controls",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Redmine", "Backlog", "Jira"
       ]
     }
   ],
