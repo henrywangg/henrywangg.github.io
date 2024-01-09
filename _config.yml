@@ -9,8 +9,7 @@ last_name: Wang
 email: percywangyin@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is my stop station site. So that remind what I've done
-footer_text: >
-  This page's created for only a purpose that remind me what've I done. 
+footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
