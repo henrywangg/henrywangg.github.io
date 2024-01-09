@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Henry W. Stop Station # the website title (if blank, full name will be used instead)
+title: Henry W.'s Stop Station # the website title (if blank, full name will be used instead)
 first_name: Henry
 middle_name: 
 last_name: Wang
 email: percywangyin@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is my stop station site. So that remind what I've done
+  This is my stop station, that reminds what I've done.
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
