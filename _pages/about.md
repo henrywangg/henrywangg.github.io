@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Just simple created for myself.
+subtitle: Simply paused to reflect on everything.
 
 profile:
   align: right
