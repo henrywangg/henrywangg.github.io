@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "By experienced in developing and building website application for 2+ years, also participated outsourcing projects and worked in small and large teams with big workload that built completely quality products for business needs. Highly motivated in programming, researching frameworks to improve quality code and my skills. Adapt to join projects quickly, also suggest solutions to resolve problems in technical way. Able to work independently of remote locations or in office environment.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,7 +29,7 @@
       "url": "https://dsoft.software",
       "startDate": "2023-09-01",
       "endDate": "Now",
-      "summary": "Maintain and developed new modules in running project. Communicated with BA teams to resolve issues and verified their requirements. Assisted to internal teams for develop features also improved quality code.",
+      "summary": "Contributed to the ongoing project by both maintaining existing modules and developing new ones. Collaborated closely with Business Analysis teams to address issues and validate their requirements. Provided support to internal teams in feature development, while also enhancing code quality.",
       "highlights": [
         "Oracle",
         "SQL Server",
@@ -45,7 +45,7 @@
       "url": "https://tmasolutions.com",
       "startDate": "2022-12-01",
       "endDate": "2023-07-01",
-      "summary": "Collected and verified bugs from QC teams. Work with internal team to check bug tickets also maintain source code of this project. Contributed team leader to detect performance issues and found solution to optimize UI.",
+      "summary": "Gathered and validated bug reports from QC teams. Collaborated with the internal team to review and address bug tickets while maintaining the source code of the project. Assumed a leadership role in the team, identifying and resolving performance issues, and implementing solutions to optimize the user interface.",
       "highlights": [
         "Objective-C",
         "Foundation Framework"
@@ -57,7 +57,7 @@
       "url": "https://tmasolutions.com",
       "startDate": "2022-06-01",
       "endDate": "2022-11-01",
-      "summary": "Developed re-usable components using AngularJS and Razor Engine (.NET Core) for entire project. Organized project’s structure in presentation layer. Detected and resolved issues in business layer and framework layer, also improved quality code.",
+      "summary": "Developed reusable components utilizing AngularJS and the Razor Engine (.NET Core) for comprehensive project integration. Implemented an organized structure in the presentation layer of the project. Identified and resolved issues within the business and framework layers, concurrently enhancing the overall code quality.",
       "highlights": [
         "SQL Server",
         "Umbraco .NET",
@@ -71,7 +71,7 @@
       "url": "https://tmasolutions.com",
       "startDate": "2021-05-01",
       "endDate": "2022-05-01",
-      "summary": "Maintained and designed more stored tables in existing database, also wrote querying SQL for interacting data and statistics. Developed files management on Amazon server that based on existing REST API server, also improved other modules in entire project.",
+      "summary": "Managed and designed additional stored tables within the existing database, concurrently crafting SQL queries to facilitate seamless interaction with data and generate comprehensive statistics. Implemented a file management system on the Amazon server, leveraging the existing REST API server, and further enhanced various modules throughout the entire project.",
       "highlights": [
         "PostgreSQL",
         "Spring Famework",
@@ -86,7 +86,7 @@
       "url": "https://vietinfo.tech",
       "startDate": "2017-02-01",
       "endDate": "2020-05-01",
-      "summary": "Developed re-usable theme for coming projects. Built DotNetNuke templates and organized project structure. Support team leaders to check and verify UI bugs, also recommended solutions for resolved them.",
+      "summary": "Constructed a reusable theme in preparation for upcoming projects. Engineered DotNetNuke templates and streamlined the project's organizational structure. Collaborated with team leaders to assess and verify UI-related issues, providing insightful recommendations and implementing effective solutions for their resolution.",
       "highlights": [
         "DotNetNuke .NET Framework",
         "Bootstrap CSS Framework",
@@ -108,9 +108,9 @@
       "endDate": "2020-04-01",
       "score": "",
       "courses": [
-        "Object Oriented Progamming",
-        "Data Structure And Alghorithm",
-        "Information System Analysis And Deisgn",
+        "Object-Oriented Programming",
+        "Data Structures and Algorithms",
+        "Information Systems Analysis and Design",
         "Website/Mobile Programming"
       ]
     },

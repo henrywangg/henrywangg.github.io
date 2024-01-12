@@ -16,4 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently, I don't have any word to describle this page. I'm Dev for 2 years until now. You can refer [my resume here](/cv).
+With over 2 years of expertise in developing and constructing website applications, I have actively contributed to both in-house projects and outsourced initiatives. I have been an integral part of diverse teams, ranging from small to large, handling substantial workloads to deliver high-quality products tailored to meet business requirements. 
+
+My enthusiasm for programming is evidenced by continuous research into frameworks aimed at elevating code quality and refining my skills. I possess a proactive approach, adapting swiftly to new projects and offering technical solutions to address challenges. Whether working independently from remote locations or within an office environment, I consistently demonstrate adaptability and a commitment to delivering results.
+
+You can refer [my resume here](/cv).
