@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VietInfo Techology
-description: Designed and built CMS website.
+description: Technology Company Website.
 img: assets/img/12.jpg
 redirect: https://vietinfo.tech
 importance: 1
